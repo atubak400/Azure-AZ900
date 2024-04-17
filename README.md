@@ -8,10 +8,12 @@
 
 ### 1. Identity
 
-![scope](./img/3.png)
+![Identity](./img/3.png)
 
 ---
 
-![scope](./img/4.png)
+![Identity](./img/4.png)
 
 ---
+- Jenkins Dashboard: `http://localhost:8080
+![Jenkins Dashboard](./img/5.png)
