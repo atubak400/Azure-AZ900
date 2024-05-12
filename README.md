@@ -49,3 +49,16 @@ A collection of users, groups, and service principals that can be used to manage
 ![Identity](./img/32.png)
 ![Identity](./img/33.png)
 ![Identity](./img/34.png)
+
+#### What is ARM?
+![Identity](./img/36.png)
+![Identity](./img/37.png)
+![Identity](./img/37b.png)
+![Identity](./img/37a.png)
+![Identity](./img/38.png)
+![Identity](./img/39.png)
+![Identity](./img/40.png)
+![Identity](./img/41.png)
+![Identity](./img/42.png)
+![Identity](./img/43.png)
+![Identity](./img/44.png)
